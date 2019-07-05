@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542475746 source:c:\users\stevedexter\desktop\word_puzzle_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
